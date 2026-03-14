@@ -1,0 +1,21 @@
+.container{
+    width: 87%;
+}
+*{
+    font-family: "Roboto", sans-serif ;
+}
+h1,h2,h3{
+    font-family:"Bebas Neue", sans-serif ;
+}
+
+
+/* 
+tailwind responsive design beakpoint and class.
+
+sm >= 640
+md >= 768
+lg >= 1024
+xl >= 1280
+2xl >= 1536
+
+*/
